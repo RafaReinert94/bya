@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+footer{
+    background-color: rgb(214, 214, 214);
+    font-size: small;
+    padding: 0.5em;
+}
+
+#formAdmin{
+    margin: 2em;
+    
+}
+
+#tableAddImagemDestaque{
+    margin: 2em;
+}
+
